@@ -1,8 +1,38 @@
-# React + Vite
+# React TodoList
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a Todo List application built with React and Chakra UI.
 
-Currently, two official plugins are available:
+## Features
+- Add tasks
+- Complete tasks
+- Delete tasks
+- View deleted tasks
+- View completed tasks
+- İnformation tasks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/areezganiyev/reacttodolist.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd reacttodolist
+    ```
+
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
